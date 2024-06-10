@@ -1,0 +1,57 @@
+@font-face {
+  font-family: WShabnam;
+  src: url('shabnam-font-v5.0.1/Shabnam-FD.eot');
+  src: url('shabnam-font-v5.0.1/Shabnam-FD.eot?#iefix') format('embedded-opentype'),
+       url('shabnam-font-v5.0.1/Shabnam-FD.woff2') format('woff2'),
+       url('shabnam-font-v5.0.1/Shabnam-FD.woff') format('woff'),
+       url('shabnam-font-v5.0.1/Shabnam-FD.ttf') format('truetype');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: WShabnam;
+  src: url('shabnam-font-v5.0.1/Shabnam-Bold-FD.eot');
+  src: url('shabnam-font-v5.0.1/Shabnam-Bold-FD.eot?#iefix') format('embedded-opentype'),
+       url('shabnam-font-v5.0.1/Shabnam-Bold-FD.woff2') format('woff2'),
+       url('shabnam-font-v5.0.1/Shabnam-Bold-FD.woff') format('woff'),
+       url('shabnam-font-v5.0.1/Shabnam-Bold-FD.ttf') format('truetype');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: WShabnam;
+  src: url('shabnam-font-v5.0.1/Shabnam-Thin-FD.eot');
+  src: url('shabnam-font-v5.0.1/Shabnam-Thin-FD.eot?#iefix') format('embedded-opentype'),
+       url('shabnam-font-v5.0.1/Shabnam-Thin-FD.woff2') format('woff2'),
+       url('shabnam-font-v5.0.1/Shabnam-Thin-FD.woff') format('woff'),
+       url('shabnam-font-v5.0.1/Shabnam-Thin-FD.ttf') format('truetype');
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: WShabnam;
+  src: url('shabnam-font-v5.0.1/Shabnam-Light-FD.eot');
+  src: url('shabnam-font-v5.0.1/Shabnam-Light-FD.eot?#iefix') format('embedded-opentype'),
+       url('shabnam-font-v5.0.1/Shabnam-Light-FD.woff2') format('woff2'),
+       url('shabnam-font-v5.0.1/Shabnam-Light-FD.woff') format('woff'),
+       url('shabnam-font-v5.0.1/Shabnam-Light-FD.ttf') format('truetype');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: WShabnam;
+  src: url('shabnam-font-v5.0.1/Shabnam-Medium-FD.eot');
+  src: url('shabnam-font-v5.0.1/Shabnam-Medium-FD.eot?#iefix') format('embedded-opentype'),
+       url('shabnam-font-v5.0.1/Shabnam-Medium-FD.woff2') format('woff2'),
+       url('shabnam-font-v5.0.1/Shabnam-Medium-FD.woff') format('woff'),
+       url('shabnam-font-v5.0.1/Shabnam-Medium-FD.ttf') format('truetype');
+  font-weight: 500;
+}
+
+body {
+	font-family: WShabnam;
+}
+
+.text-justify {
+	text-align: justify;
+}
