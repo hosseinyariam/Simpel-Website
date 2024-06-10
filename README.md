@@ -1,13 +1,14 @@
-#Simple-Website
-
+# Simple-Website
 This is a simple website for hamyar camping online magazine.
+
 Designed By Hossein Yari.
+
+# screenshot
+
 <img src="https://hosseinyariam.ir/images/screenshot.webp" alt="مجله اینترنتی همیار کمپینگ">
-About
-Displays a simple PWA demo. Implemented here using the program manifest, service workers, and storage. In this version, it is possible to define the first page, the default offline page, and the pages that should not be cached.
 
-Demo
-https://alirahimi818.github.io/simple-PWA/
+# About
+Displays a online magazine demo. Implemented here using the Html,Css,Bootstrap,PHP and JS.
 
-َUsage
-You can see how to use this package on the Red Cherry site in Persian https://redcherry.ir/?p=603
+# Demo
+https://hosseinyariam.ir
